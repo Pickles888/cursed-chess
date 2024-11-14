@@ -2,9 +2,6 @@ package org.chess;
 
 import java.util.Arrays;
 
-import org.chess.utils.Coordinate;
-import org.chess.utils.Vector2d;
-
 public class Piece {
 	public enum PieceType {
 		ROOK,
